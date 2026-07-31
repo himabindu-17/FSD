@@ -1,20 +1,33 @@
-# Full Stack Development (FSD) Lab
+# FSD (Full Stack Development)
 
-This repository contains all the laboratory experiments completed during the Full Stack Development course.
+This repository contains my Full Stack Development (FSD) lab work, assignments, and practice programs.
 
-## Technologies
+## Repository Structure
+
+- **Assignment/** – TypeScript lab assignments and practical programs.
+- Additional folders will be added as new topics are covered.
+
+## Topics Covered
+
+- TypeScript Basics
+- Variables and Data Types
+- Functions
+- Classes and Objects
+- Constructors
+- Access Modifiers (`public`, `private`, `protected`)
+- `readonly` and `static`
+- Namespaces
+- Modules (`export` and `import`)
+- Generics
+- Arrays and Strings Programs
+- Number Programs
+
+## Technologies Used
+
 - TypeScript
 - Node.js
-- Express.js
+- Visual Studio Code
 - Git & GitHub
-
-## Experiments
-
-- Week 1
-- Week 2
-- Week 3
-
-Each week's folder contains the source code for the corresponding laboratory experiments.
 
 ## Author
 
